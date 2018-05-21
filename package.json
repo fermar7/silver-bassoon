@@ -1,0 +1,19 @@
+{
+  "name": "silver-bassoon",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.3"
+  },
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
